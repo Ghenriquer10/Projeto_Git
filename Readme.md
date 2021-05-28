@@ -1,0 +1,1 @@
+A partir desse repositório eu aprendi a "Comittar" um projeto do git para o github
